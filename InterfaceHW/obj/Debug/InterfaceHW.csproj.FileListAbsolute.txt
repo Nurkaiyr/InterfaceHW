@@ -1,0 +1,6 @@
+c:\users\1\documents\visual studio 2017\Projects\InterfaceHW\InterfaceHW\obj\Debug\InterfaceHW.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2017\Projects\InterfaceHW\InterfaceHW\bin\Debug\InterfaceHW.exe.config
+c:\users\1\documents\visual studio 2017\Projects\InterfaceHW\InterfaceHW\bin\Debug\InterfaceHW.exe
+c:\users\1\documents\visual studio 2017\Projects\InterfaceHW\InterfaceHW\bin\Debug\InterfaceHW.pdb
+c:\users\1\documents\visual studio 2017\Projects\InterfaceHW\InterfaceHW\obj\Debug\InterfaceHW.exe
+c:\users\1\documents\visual studio 2017\Projects\InterfaceHW\InterfaceHW\obj\Debug\InterfaceHW.pdb
